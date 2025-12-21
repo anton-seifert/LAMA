@@ -1,3 +1,11 @@
 shared-env/
 __pycache__/
 lama25-env/
+
+# --- Python & Jupyter Müll ---
+__pycache__/
+.ipynb_checkpoints/
+
+# --- Machine Learning Output ---
+logs/
+*.log
